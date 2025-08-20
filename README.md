@@ -1,7 +1,7 @@
 # 🔢 Projeto 2 – Conversores em Python
 
-Este projeto contém dois conversores (Temperatura e Moeda), feitos em duas versões:
-- Versão console (linha de comando)
+Este projeto contém dois conversores (Temperatura e Moeda), feitos em duas versões:  
+- Versão console (linha de comando)  
 - Versão com interface gráfica (Tkinter)
 
 ---
@@ -15,20 +15,31 @@ Este projeto contém dois conversores (Temperatura e Moeda), feitos em duas vers
 
 ---
 
-## 🚀 Como rodar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/projeto_2_conversores.git
-   cd projeto_2_conversores
-Execute o arquivo desejado, por exemplo:
-
-bash
-Copiar
-Editar
-python conversor_de_moeda.py
-python conversor_moeda_tkinter.py
 🛠️ Tecnologias
 Python 3
 
 Tkinter (GUI)
+
+👤 Autor
+Enzo Loiz
+
+## 🚀 Como rodar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/EnzoLoiz/projeto_2_conversores.git
+   cd projeto_2_conversores
+Execute o arquivo desejado:
+
+Versão console (linha de comando):
+
+python conversor_de_moeda.py
+
+python conversor_de_temperatura.py
+
+Versão com interface gráfica (Tkinter):
+
+python conversor_moeda_tkinter.py
+
+python conversor_temperatura_tkinter.py
+
